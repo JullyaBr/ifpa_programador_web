@@ -111,7 +111,7 @@ else if($acao=="atualizar"){
 
 //funções em PHP
 function getcorridas($con){
-  $sql  = "SELECT * FROM corrida;";
+  $sql  = "SELECT * FROM desktop;";
   $query = $con->query($sql);
   $lista_corrida = $query->fetchAll();
   return $lista_corrida;
