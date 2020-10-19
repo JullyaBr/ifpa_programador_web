@@ -1,7 +1,5 @@
-# pcorrida
+# Controle de Estoque
 Aplicação desenvolvida com interface Web. 
-
-Portal de corridas de Rua -> Cadastros e manutenções básicas para Atletas, Provas e Treinos. 
 
 Utilização de: Bootstrap, DOMPDF, MySQL, PHP, HTML, CSS, Apache.  
 
@@ -10,5 +8,3 @@ Utilização de: Bootstrap, DOMPDF, MySQL, PHP, HTML, CSS, Apache.
 - Segurança das informações (controle de sessão) 
 - Geração de relatórios com plugin DOMPDF
 
-Desenvolvido para projeto em graduação (Disciplina Devenvolvimento Web).
-Sem utilização de framework serverside.
